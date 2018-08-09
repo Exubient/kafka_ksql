@@ -1,2 +1,8 @@
 # kafka_ksql
-toy project: Kafka -> Ksql -> influxdb + grafana 
+
+testing Kafka and Ksql for real-time streaming SQL analysis.
+set InfluxDB + Grafana for better visualization
+installation not included
+
+
+
